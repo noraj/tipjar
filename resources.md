@@ -72,3 +72,11 @@ https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
 
 Seclists by Daniel Miessler is amazing collection of Wordlists:
 https://github.com/danielmiessler/SecLists/
+
+## Rawsec's CyberSecurity Inventory
+
+An inventory of tools and resources aiming to help people to find everything related to CyberSecurity.
+
+- Search: https://inventory.raw.pm/
+- Lists / tables of tools by category: https://inventory.raw.pm/tools.html
+- Source: https://gitlab.com/rawsec/rawsec-cybersecurity-list
